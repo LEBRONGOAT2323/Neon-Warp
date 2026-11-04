@@ -22,6 +22,10 @@ npx serve
 
 Then visit `http://localhost:8000`.
 
+### Play with Pizza Edition 2
+
+Play with Neon Warp's **official partner** Pizza Edition 2 at `https://pizza-edition-2.netlify.app/g/neonwarp.html`.
+
 ### Deploy with GitHub Pages
 
 1. Go to **Settings → Pages** in your repo.
@@ -30,11 +34,7 @@ Then visit `http://localhost:8000`.
 
 ### Use the Vercel link
 
-Go to https://neonwarp.vercel.app/
-
-### Play through Pizza Edition 2
-
-Play through Neon Warp's **official partner** Pizza Edition 2 at https://pizza-edition-2.netlify.app/g/neonwarp.html
+Go to `https://neonwarp.vercel.app/`.
 
 ## Controls
 
