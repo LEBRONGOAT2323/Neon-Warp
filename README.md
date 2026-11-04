@@ -32,6 +32,10 @@ Then visit `http://localhost:8000`.
 
 Go to https://neonwarp.vercel.app/
 
+### Play through Pizza Edition 2
+
+Play through Neon Warp's **official partner** Pizza Edition 2 at https://pizza-edition-2.netlify.app/g/neonwarp.html
+
 ## Controls
 
 | Input | Action |
