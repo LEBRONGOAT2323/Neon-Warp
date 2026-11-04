@@ -116,7 +116,3 @@ Everything lives in `index.html`, so tweaking the game is straightforward:
 ## Contributing
 
 Issues and pull requests are welcome. Ideas for future updates include new ship types, additional boss patterns, more power-ups, and a pause menu.
-
-## License
-
-Add a license of your choice (e.g., MIT) to the repo and reference it here.
